@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm trying to learn HaxeFlixel and JavaScript. (Actually beginner developer)
+I'm trying to learn HaxeFlixel, Python and JavaScript. (Actually beginner developer)
+
+<img height="40" src="https://github.com/devicons/devicon/raw/master/icons/haxe/haxe-plain.svg">
+
+Currently making FNF stuff (engine, mods and covers).
 
 ### My projects
 
