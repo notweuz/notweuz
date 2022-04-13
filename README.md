@@ -13,3 +13,8 @@ Currently making FNF stuff (engine, mods and covers).
 ### Statistic
 
 ![stats](https://github-readme-stats.vercel.app/api?username=weuz-github&show_icons=true&theme=dark)
+
+### Social Media
+
+* [Twitter](https://twitter.com/notweuz_)
+* [Youtube](https://www.youtube.com/channel/UC2XJzq2EaMQUw61IC_sComw)
