@@ -8,7 +8,7 @@ Currently making FNF stuff (engine, mods and covers).
 
 ### My projects
 
-* FNF-OS Engine - [Github Repo](https://github.com/notweuz/FNF-OSEngine)
+* currently no projects
 
 ### Social Media
 
