@@ -3,8 +3,6 @@
 I'm learning Python, JavaScript and Kotlin.
 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
- 
-Currently making FNF stuff (engine, mods and covers).
 
 ### My projects
 
