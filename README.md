@@ -6,7 +6,7 @@ I'm learning Python, JavaScript & Node.js, Vuejs and Kotlin.
 
 ### My projects
 
-* currently no projects
+* [kocmoc](https://discord.com/api/oauth2/authorize?client_id=1036605865760915476&permissions=274878286912&scope=applications.commands%20bot) - Discord bot for Genshin Impact players (Contains information about characters, weapons and even banners). Currently only on Russian language.
 
 ### Social Media
 
