@@ -11,7 +11,7 @@
 
 ### Соц. Сети
 
-* [Youtube](https://www.youtube.com/channel/notweuz)
+* [Youtube](https://www.youtube.com/c/notweuz)
 
 ### Статистика
 
