@@ -1,8 +1,8 @@
 ### Привет 👋
 
-Я изучаю JavaScript & Node.js и Kotlin.
+Я изучаю JavaScript & Node.js и Java.
 
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 ### Мои проекты
 
