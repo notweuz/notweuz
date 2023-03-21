@@ -15,4 +15,4 @@
 
 ### Статистика
 
-[stats](https://github-readme-stats.vercel.app/api?username=notweuz)
+![stats](https://github-readme-stats.vercel.app/api?username=notweuz)
