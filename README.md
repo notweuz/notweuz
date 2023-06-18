@@ -1,18 +1,18 @@
-### Привет 👋
+### Hi 👋
 
-Я изучаю JavaScript & Node.js и Java.
+I am learning JavaScript & Node.js, C# and Java.
 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-### Мои проекты
+### My projects
 
-* [kocmoc](https://discord.com/api/oauth2/authorize?client_id=1036605865760915476&permissions=274878286912&scope=applications.commands%20bot) - Дискорд бот для игроков Genshin Impact (Содержит информацию о персонажах, оружиях, текущих баннерах и т.п.).
-* [АГТУ Расписание - Discord](https://github.com/notweuz/astu-timetable-discord) - Дискорд бот для учащихся АГТУ. Показывает актуальное расписание при помощи команды. А так же показывает текущую неделю и пару в статусе. Бот имеет открытый исходный код.
+* [kocmoc](https://discord.com/api/oauth2/authorize?client_id=1036605865760915476&permissions=274878286912&scope=applications.commands%20bot) - Discord Bot for Genshin Impact players (Contains information about characters, weapons, current banners, etc.)
 
-### Соц. Сети
+### Social Media
 
-* [Youtube](https://www.youtube.com/c/notweuz)
+* [Youtube](https://www.youtube.com/@notweuz)
+* [Twitter](https://www.twitter.com/notweuz)
 
-### Статистика
+### Statistics
 
 ![stats](https://github-readme-stats.vercel.app/api?username=notweuz)
