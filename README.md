@@ -2,7 +2,7 @@
 
 I am learning JavaScript & Node.js, C# and Java.
 
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 
 ### My projects
 
