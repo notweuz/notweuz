@@ -11,9 +11,9 @@ I am learning JavaScript & Node.js and Java.
 ### Social Media
 
 * [Youtube](https://www.youtube.com/@notweuz)
-* [X](https://www.x.com/notweuz)
 * [BlueSky](https://bsky.app/profile/ntwz.ru)
 * [Website](https://me.ntwz.ru/)
+* [X](https://www.x.com/notweuz)
 
 ### Statistics
 
