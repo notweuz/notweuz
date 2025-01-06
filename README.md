@@ -6,12 +6,14 @@ I am learning JavaScript & Node.js, C# and Java.
 
 ### My projects
 
-* [kocmoc](https://discord.com/api/oauth2/authorize?client_id=1036605865760915476&permissions=274878286912&scope=applications.commands%20bot) - Discord Bot for Genshin Impact players (Contains information about characters, weapons, current banners, etc.)
+* ~
 
 ### Social Media
 
 * [Youtube](https://www.youtube.com/@notweuz)
-* [Twitter](https://www.twitter.com/notweuz)
+* [X](https://www.x.com/notweuz)
+* [BlueSky](https://bsky.app/profile/ntwz.ru)
+* [Website](https://me.ntwz.ru/)
 
 ### Statistics
 
