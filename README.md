@@ -15,6 +15,7 @@ I am learning JavaScript & Node.js and Java.
 * [Website](https://me.ntwz.ru/)
 * [X](https://www.x.com/notweuz)
 
+<!---
 ### Statistics
-
 ![stats](https://github-readme-stats.vercel.app/api?username=notweuz)
+--->
