@@ -1,9 +1,6 @@
 ### Hi 👋
 
-I'm a junior developer primarily focused on backend development with Java (Spring Boot) & Go. I have foundational knowledge in frontend development, working with frameworks like Next.js and React.js. Additionally, working on Minecraft Fabric mods as my hobby
-
-### More info
-* https://me.ntwz.ru/
+I'm a junior developer primarily focused on backend development with Java (Spring Boot) & Go. Additionally, working on Minecraft Fabric mods as my hobby
 
 ### Stats
 
