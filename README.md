@@ -1,7 +1,7 @@
 # Hi 👋
 
 Junior backend developer focused on Go & Java.
-Building microservices, REST APIs, and gRPC services — occasionally making Minecraft mods to take a break.
+Trying to get into macOS/iOS development, Minecraft modding and UE5 game making.
 
 ---
 
