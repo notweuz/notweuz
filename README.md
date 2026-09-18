@@ -1,7 +1,7 @@
 # Hi 👋
 
 Junior backend developer focused on Go & Java.
-Trying to get into macOS/iOS development, Minecraft modding and UE5 game making.
+Trying to get into Unity game dev. Would like to get into iOS/macOS app development in future.
 
 ---
 
@@ -23,8 +23,3 @@ Trying to get into macOS/iOS development, Minecraft modding and UE5 game making.
 
 <img src="https://streak-stats.demolab.com?user=notweuz&theme=gotham&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=notweuz&theme=gotham&hide_border=true" width="100%" />
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=80&section=footer" width="100%"/>
