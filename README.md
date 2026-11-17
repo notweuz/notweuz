@@ -1,9 +1,7 @@
 # Hi 👋
 
 Junior backend developer focused on Go & Java.
-Trying to get into Unity game dev. Would like to get into iOS/macOS app development in future.
-
----
+Would like to get into iOS/macOS app development in future, maybe.
 
 ## Languages
 
