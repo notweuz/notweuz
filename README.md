@@ -1,21 +1,22 @@
-# Hi 👋
 
-Backend developer focused on Go & Java.
-Would like to get into iOS/macOS app development in future, maybe.
+# Hi there! 👋
+
+Backend developer primarily working with Go and Java  
+Interested in backend architecture, APIs, and infrastructure  
+<sub> Might explore native iOS/macOS development someday</sub>
 
 ## Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" width="40" hspace="8"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" hspace="8"/>
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=golang,java&theme=dark)
 
-## Backend & infrastructure
+## Backend & Infrastructure
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-plain.svg" height="40" width="40" hspace="8"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="40" hspace="8"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="40" width="40" hspace="8"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" height="40" width="40" hspace="8"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="40" hspace="8"/>
+![Backend & Infrastructure](https://go-skill-icons.vercel.app/api/icons?i=gin,fiber,spring,gorm,grpc,postgresql,docker&theme=dark)
 
-## Want to learn
+## Want to Learn
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="40" width="40" hspace="8"/>
+![Want to Learn](https://go-skill-icons.vercel.app/api/icons?i=swift,xcode&theme=dark)
 
-## Stats
+## GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=notweuz&theme=gotham&hide_border=true" />
-
+![GitHub Streak](https://streak-stats.demolab.com?user=notweuz&theme=gotham&hide_border=true)
