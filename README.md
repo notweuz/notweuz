@@ -1,6 +1,6 @@
 # Hi 👋
 
-Junior backend developer focused on Go & Java.
+Backend developer focused on Go & Java.
 Would like to get into iOS/macOS app development in future, maybe.
 
 ## Languages
